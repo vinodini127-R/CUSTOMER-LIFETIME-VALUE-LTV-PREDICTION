@@ -40,7 +40,12 @@ OUTPUTS
 TRAINED MODEL → MODELS/LTV_MODEL.PKL
 PREDICTION RESULTS → OUTPUTS/LTV_PREDICTIONS.CSV
 CUSTOMER SEGMENTS → HIGH / MEDIUM / LOW
+
 VISUALIZATIONS:
+
+<img width="766" height="498" alt="Image" src="https://github.com/user-attachments/assets/b311a4bc-8277-4d9a-98c7-720d058a090d" />
+
+<img width="662" height="483" alt="Image" src="https://github.com/user-attachments/assets/c551be06-e2b4-491c-a9d0-31cf32fc1ca5" />
 
 
 
